@@ -8,13 +8,7 @@ This Power BI project focuses on analyzing Blinkit’s sales performance, custom
 The goal of this project is to provide a comprehensive analysis of Blinkit’s sales data using various KPIs such as Total Sales, Average Sales, Number of Items, and Average Customer Ratings. The final deliverable includes interactive dashboards and visualizations built in Power BI that allow users to explore key business metrics and identify optimization opportunities.
 
 ### Tools Used
-•	Power BI: 
-
-  For data visualization
-      
-  DAX for advanced calculations and metrics
-      
-  Dashboard development
+•	Power BI: For data visualization, DAX for advanced calculations and metrics and Dashboard development
 
 •	Microsoft Excel: For preliminary data cleanup and organization
 
