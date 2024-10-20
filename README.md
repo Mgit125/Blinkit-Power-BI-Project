@@ -10,11 +10,11 @@ The goal of this project is to provide a comprehensive analysis of Blinkit’s s
 ### Tools Used
 •	Power BI: 
 
-      For data visualization
+  For data visualization
       
-      DAX for advanced calculations and metrics
+  DAX for advanced calculations and metrics
       
-      Dashboard development
+  Dashboard development
 
 •	Microsoft Excel: For preliminary data cleanup and organization
 
