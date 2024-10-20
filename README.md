@@ -29,12 +29,21 @@ The goal of this project is to provide a comprehensive analysis of Blinkit’s s
 11.	Insights Generation: Providing actionable insights based on the analysis to help improve Blinkit’s performance.
 
 ### Business Requirements
-To conduct an in-depth analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. The analysis aims to uncover key insights and opportunities for improvement using KPIs and visualizations in Power BI.
+
+To conduct an in-depth analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. 
+
+The analysis aims to uncover key insights and opportunities for improvement using KPIs and visualizations in Power BI.
+
 KPIs Requirements
-•	Total Sales
-•	Average Sales
-•	Number of Items Sold
-•	Average Customer Rating
+
+  •	Total Sales
+  
+  •	Average Sales
+  
+  •	Number of Items Sold
+  
+  •	Average Customer Rating
+  
 Charts & Visualizations
 1.	Total Sales by Fat Content: Donut Chart
 2.	Total Sales by Item Type: Bar Chart
